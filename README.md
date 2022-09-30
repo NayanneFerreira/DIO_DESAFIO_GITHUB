@@ -6,15 +6,15 @@ Cusos realizado pela plataforma Digital Innovation One [DIO](https://www.dio.me/
 ## **Principios de Desenvolvimento de Software**
 
 - Pensamento Computacional
-- Logigca de Programação
+- Lógica de Programação
 - Fundamentos de Algoritimos
 - Linguagem de Programação
 
-#Exercicio Pratico
+#Exercício Prático
 
 ![Find All](https://github.com/NayanneFerreira/img/blob/main/Capturar.PNG)
 
-# Certificados Adquiridos
+# Certificado Adquirido
 ![Find All](https://github.com/NayanneFerreira/img/blob/main/pensamento%20computacional.PNG)
 
 # Autor
